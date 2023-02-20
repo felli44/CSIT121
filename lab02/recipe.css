@@ -1,0 +1,129 @@
+body {
+	background-color: lightsalmon;
+}
+
+h1 {
+	font-family:arial;
+	color: WHITE;
+	font-style: oblique;
+	text-transform: uppercase;
+	text-decoration-line: underline;
+	text-align: center;
+	text-shadow: 3.5px 3.5px #FA8072;
+	font-size: 45px;
+
+}
+
+h2 {
+	font-family:arial;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px #FA6072;
+	border-style: dotted;
+	border-width: 14px;
+	border-color: #FA8072;
+	background-color: #FFB4B4;
+}
+
+h5 {
+	font-family:arial;
+	font-size: 18px;
+	color: red;
+	text-shadow: 1px 1px #FFFFFF;
+	text-decoration-line: underline;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+div {
+	text-align: center;
+	border-style: dotted;
+	border-color:#FA6070;
+	font-family: arial;
+	font-style: oblique;
+	font-weight: bold;
+	border-width: 5px;
+	border-spacing: center;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+h3 {
+	font-family: arial;
+	font-size: 20px;
+	color: #FA8072;
+	text-shadow: 2px 2px #FFFFFF;
+	text-transform: uppercase;
+
+}
+
+ul {
+	list-style-type: circle;
+	background-color: #FFB4B4;
+	font-family: arial;
+	font-style: oblique;
+	font-size: 18px;
+	color: white;
+	padding: 20px;
+
+}
+
+#hr1 {
+	border-color: #FA6072;
+	border-style: dotted;
+	border-width: 3px;
+}
+
+#hr2 {
+	border-style: dotted;
+	border-color: #FA6072;
+	border-width: 5px;
+}
+
+#h3hint {
+	font-size: 20px;
+	border-style: dotted;
+	border-width: 10px;
+	color: #FA6072;
+	background-color: #FFB4B4;
+}
+
+#ol1 {
+	list-style-type: circle;
+	background-color: #FF9999;
+	font-family: arial;
+	font-style: oblique;
+	color: white;
+	padding: 20px;
+}
+
+p {
+	background-color: #FFB4B4;
+	font-style: normal;
+	font-weight: bold;
+	border-style: dotted;
+	border-color: #FF9999;
+	border-width: 8px;
+	padding: 20px;
+	margin: 20px
+
+}
+
+#hr2 {
+	border-style: dotted;
+	border-width: 6px;
+
+}
+
+#hr3 {
+	border-style: dotted;
+	border-width: 6px;
+	border-color: #FA6072;
+
+}
+
+#lastp {
+	font-style: oblique;
+	font-size: 13px;
+	color: salmon;
+}
