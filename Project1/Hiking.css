@@ -1,0 +1,151 @@
+body {
+	background-color: #3B8132;
+}
+
+#heading {
+	font-family: arial;
+	font-size: 40px;
+	word-spacing: 2em;
+	text-align: center;
+	color: #214E34;
+	filter: drop-shadow(8px 8px 6px #BBDEAA);
+	margin-top: 40px;
+}
+
+.navbar a:hover {
+	background-color: #214E34;
+	color: #f2f2f2;
+	position: center;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	font-family: arial;
+	border-bottom: 30px;
+	border-bottom-color: white;
+	padding: 20px;
+	overflow: hidden;
+}
+
+.home {
+	padding-right: 50px;
+	border-right: 10px;
+	font-family: arial;
+}
+
+.hike{
+	padding-right: 50px;
+	font-family: arial;
+	
+}
+
+.plants {
+	padding-right: 50px;
+	border-right: 10px;
+	font-family: arial;
+}
+
+.edm {
+	padding-right: 50px;
+	border-right: 10px;
+	font-family: arial;
+}
+
+
+
+#DRJPG {
+	padding: 20px;
+	max-width: 50%;
+	max-height: 50%;
+	margin-top: 10px;
+	margin-left: 300px;
+	filter: drop-shadow(10px 10px);
+
+}
+
+.card {
+	max-width: auto;
+	max-height: auto;
+	background-color: #90EE90;
+	box-shadow: 0 4px 8px 0;
+	border-radius: 20px;
+
+}
+
+.humpback {
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	filter: drop-shadow(8px 8px 6px #214E34);
+
+
+}
+
+.HML {
+	font-family: arial;
+	padding: 5px;
+	font-style: bold;
+}
+
+#VAList {
+	padding: 8px;
+	margin-left: 6px;
+}
+
+#MIJPG {
+	padding: 20px;
+	max-width: 600px;
+	max-height: 700px;
+	margin-top: 10px;
+	margin-left: 330px;
+	filter: drop-shadow(10px 10px);
+
+}
+
+.card2 {
+	max-width: auto;
+	max-height: auto;
+	background-color: #90EE90;
+	box-shadow: 0 4px 8px 0;
+	margin-top: 50px;
+	border-radius: 20px;
+}
+
+#mention {
+	font-family: arial;
+	font-size: 40px;
+	word-spacing: 2em;
+	text-align: center;
+	color: #214E34;
+	filter: drop-shadow(8px 8px 6px #BBDEAA);
+	margin-top: 40px;
+}
+
+.card3 {
+	max-width: auto;
+	max-height: auto;
+	background-color: #90EE90;
+	box-shadow: 0 4px 8px 0;
+	margin-top: 50px;
+	border-radius: 20px;
+}
+
+#KQ {
+	padding: 20px;
+	max-width: 400px;
+	max-height: 500px;
+	margin-top: 10px;
+	margin-left: 400px;
+	filter: drop-shadow(10px 10px );
+}
+
+.topleft {
+	position: relative;
+	top: 2px;
+	left: 400px;
+	font-size: 30px;
+	padding: 10px;
+	color: white;
+	filter: drop-shadow(8px 8px 6px #214E34);
+}
+
