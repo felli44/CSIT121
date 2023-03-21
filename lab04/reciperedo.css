@@ -1,0 +1,137 @@
+body {
+	background-color: lightsalmon;
+	font-family: arial;
+}
+#title {
+	font-family:arial;
+	color: white;
+	font-style: oblique;
+	text-transform: uppercase;
+	text-decoration-line: underline;
+	text-align: center;
+	text-shadow: 3.5px 3.5px #FA8072;
+	font-size: 45px;
+}
+
+#intro {
+	font-family:arial;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px #FA6072;
+	border-style: dotted;
+	border-width: 09px;
+	border-color: #FA8072;
+	background-color: #FFB4B4;
+
+}
+
+#ul1 {
+	text-align: center;
+}
+
+#nav1 {
+	text-align: center;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 20px;
+	font-style: italic;
+	border-style: solid;
+	border-width: 4px 4px 4px;
+	border-width: 4px 1.50em;
+	border-color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#hr1 {
+	border-style: dotted;
+	border-width: 3px;
+	border-color: white;
+}
+
+#food {
+	font-size: 25px;
+	color: #FA8072;
+	text-shadow: 2px 2px #FFFFFF;
+	text-transform: uppercase;
+	text-align: left;
+	border-style: solid;
+	border-color: white;
+	background-color: #E9967A;
+
+}
+
+#ul1 {
+	color: white;
+	text-align: left;
+}
+
+.flex-container {
+	display: inline-flex;
+	padding-left: 30px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: white;
+	padding-left: 50px;
+	line-height: 1.5em;
+	float: right;
+	background-color: #FFB4B4;
+}
+
+.right {
+	margin-top: 5px;
+}
+
+#howto {
+	border-style: solid;
+	border-color: white;
+	margin-bottom: 10px;
+	font-size: 25px;
+	color: #FA8072;
+	text-shadow: 2px 2px #FFFFFF;
+	text-transform: uppercase;
+	background-color: #E9967A;
+
+}
+
+#ol1 {
+	color: white;
+	border-style: solid;
+	border: white;
+}
+
+.position {
+	display: inline-block;
+	padding-right: 20px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: white;
+}
+
+#lastp {
+	text-align: center;
+	color: white;
+
+}
+
+#link {
+	text-align: center;
+	
+}
+
+#footer {
+	text-align: center;
+	color: white;
+	font-size: 15px;
+
+
+}
+
+.box2 {
+	border-style: solid;
+	border-color: white;
+	border-width: 30%;
+	background-color: #E9967A;
+	margin-left: 100px;
+	margin-right: 100px;
+}
